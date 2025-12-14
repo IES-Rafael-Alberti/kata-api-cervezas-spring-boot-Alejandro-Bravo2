@@ -1,10 +1,10 @@
-package com.gestioneventos.katacervezas;
+package api.kata.cervezas;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class KataCervezasApplicationTests {
+class CervezasApplicationTests {
 
     @Test
     void contextLoads() {
